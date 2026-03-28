@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+  <h1><code>&lt; GWG Group /&gt;</code></h1>
+  <p><b>Desenvolvimento de Sistemas & IA Profissional</b></p>
+</div>
 
-<!--
-**gfranca199-netizen/gfranca199-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 Olá, eu sou o Gabriel Costa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente focado em construir a **SofIA** (Assistente de agendamento com IA) e gerir a infraestrutura do **GWG Group**.
+
+## 🛠️ O que eu faço:
+* **Inteligência Artificial:** Desenvolvimento da SofIA para Lash Designers.
+* **Servidores:** Administração de VPS e comandos Linux.
+* **Web:** Criação de interfaces em HTML/CSS.
+* **Elétrica/Tech:** Cálculos de potência para LED e hardware.
+
+## 📈 Projetos em destaque:
+- [ ] **SofIA:** Lançamento da versão Beta.
+- [ ] **GWG Group:** Expansão da marca.
+
+---
+<div align="center">
+  <i>"Foco no conteúdo e na evolução constante."</i>
+</div>
